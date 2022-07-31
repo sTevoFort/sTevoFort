@@ -23,6 +23,7 @@
 
 <div>
 [![Cypress.io](https://img.shields.io/badge/tested%20with-Cypress-04C38E.svg)](https://www.cypress.io/)
+[![Cypress.io](https://img.shields.io/badge/tested%20with-Cypress-04C38E.svg)](https://www.cypress.io/)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sTeVofort&theme=dark)](https://git.io/streak-stats)
 
