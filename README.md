@@ -9,8 +9,11 @@
 </div>
 </br>
 
+<div id="social" align="center">
 
 [![sTeVo-Forty](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/stephen-fortunato-0079601b1/)
+
+</div>
 
 <div>
 - 👀 I’m a tester interested in Old age learning
