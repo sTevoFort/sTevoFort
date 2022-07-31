@@ -6,7 +6,7 @@
 </div>
 </br>
 <div>
-- 👋 Hi, I’m Stephen Fortunato
+👋 Hi, I’m Stephen Fortunato
 </div>
 </br>
 
@@ -17,9 +17,11 @@
 </div>
 </br>
 <div>
-- 👀 I’m a tester interested in Old age learning
-- 🌱 I’m currently learning everything one can absorb
-- 📫 stepfort77@gmail.com
+👀 I’m a tester interested in Old age learning
+  
+🌱 I’m currently learning everything one can absorb
+  
+📫 stepfort77@gmail.com
 </div>  
 </br>
 <div>
