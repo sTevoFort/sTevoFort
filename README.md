@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @sTevoFort
+- 👋 Hi, I’m Stephen Fortunato
 - 👀 I’m interested in Old age learning
 - 🌱 I’m currently learning everything one can absorb
-- 📫 Drop me an email
+- 📫 stepfort77@gmail.com
 
 <!---
 sTevoFort/sTevoFort is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
