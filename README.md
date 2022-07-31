@@ -15,13 +15,13 @@
 [![sTeVo-Forty](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/stephen-fortunato-0079601b1/)
 
 </div>
-
+</br>
 <div>
 - 👀 I’m a tester interested in Old age learning
 - 🌱 I’m currently learning everything one can absorb
 - 📫 stepfort77@gmail.com
 </div>  
-
+</br>
 <div>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sTeVofort&theme=dark)](https://git.io/streak-stats)
