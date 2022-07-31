@@ -1,19 +1,12 @@
 [![Cypress.io](https://img.shields.io/badge/tested%20with-Cypress-04C38E.svg)](https://www.cypress.io/)
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/xY8zcmTEC89UoaVKlj/giphy.gif" width="100" />
-  <img src="https://media.giphy.com/media/GZu3NtMoA6Lp2alLKk/giphy.gif" width="100" />
-   <img src="https://media.giphy.com/media/gw3IWyGkC0rsazTi/giphy.gif" width="100" />  
-</div>
+[![sTeVo-Forty](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/stephen-fortunato-0079601b1/)
+
 </br>
 <div>
 👋 Hi, I’m Stephen Fortunato
 </div>
 </br>
-
 <div id="social" align="center">
-
-[![sTeVo-Forty](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/stephen-fortunato-0079601b1/)
-
 </div>
 </br>
 <div>
