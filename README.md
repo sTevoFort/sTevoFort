@@ -1,3 +1,4 @@
+[![Cypress.io](https://img.shields.io/badge/tested%20with-Cypress-04C38E.svg)](https://www.cypress.io/)
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/xY8zcmTEC89UoaVKlj/giphy.gif" width="100" />
   <img src="https://media.giphy.com/media/GZu3NtMoA6Lp2alLKk/giphy.gif" width="100" />
@@ -22,8 +23,6 @@
 </div>  
 
 <div>
-[![Cypress.io](https://img.shields.io/badge/tested%20with-Cypress-04C38E.svg)](https://www.cypress.io/)
-[![Cypress.io](https://img.shields.io/badge/tested%20with-Cypress-04C38E.svg)](https://www.cypress.io/)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sTeVofort&theme=dark)](https://git.io/streak-stats)
 
