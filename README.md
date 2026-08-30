@@ -14,8 +14,11 @@ I'm a SDET interested in web development, software testing, and automation.
 |---|---|
 | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com) | [![Cypress](https://img.shields.io/badge/tested%20with-Cypress-04C38E.svg)](https://www.cypress.io/) |
 
-
 <br/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Full-stack+developer;Open-source+enthusiast;Always+learning" alt="Typing animation">
+</p>
 
 <div>
   
