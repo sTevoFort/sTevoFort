@@ -12,7 +12,7 @@ I'm a SDET interested in web development, software testing, and automation.
 
 | LinkedIn | Cypress |
 |---|---|
-| [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/stephen-fortunato-0079601b1/) | [![Cypress](https://img.shields.io/badge/tested%20with-Cypress-04C38E.svg)](https://www.cypress.io/) |
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com) | [![Cypress](https://img.shields.io/badge/tested%20with-Cypress-04C38E.svg)](https://www.cypress.io/) |
 
 
 <br/>
