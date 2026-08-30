@@ -4,9 +4,9 @@
 
 I'm a SDET interested in web development, software testing, and automation.
 
-- 🔭 Currently working on: [My-Coaching-Blog]
+- 🔭 Currently working on: [My-Coaching-Blog](https://github.com/sTevoFort/My-Coaching-Blog)
 - 🌱 Currently learning: Next.js, Python, PHP and whatever this modern world wants me absorb.
-- 💼 Portfolio: [Your website](https://example.com)
+- 💼 Portfolio: [WIP](https://sTeVoFortyCreativeStudios.com)
 - 📫 Contact: [stepfort77@gmail.com](mailto:stepfort77@gmail.com)
 - 🔗 LinkedIn: [Stephen Fortunato](https://www.linkedin.com/in/stephen-fortunato-0079601b/)
 
