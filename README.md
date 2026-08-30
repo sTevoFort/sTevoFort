@@ -1,26 +1,44 @@
-[![Cypress.io](https://img.shields.io/badge/tested%20with-Cypress-04C38E.svg)](https://www.cypress.io/)
-[![sTeVo-Forty](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/stephen-fortunato-0079601b1/)
+<div>
+# Hi, I'm Stephen Fortunato 👋
 
-</br>
-<div>
-👋 Hi, I’m Stephen Fortunato
-</div>
-</br>
-<div id="social" align="center">
-</div>
-</br>
-<div>
-👀 I’m a tester interested in Old age learning
-  
-🌱 I’m currently learning everything one can absorb
-  
-📫 stepfort77@gmail.com
+I'm a SDET interested in web development, software testing, and automation.
+
+- 🔭 Currently working on: [My-Coaching-Blog]
+- 🌱 Currently learning: Next.js, Python, PHP and whatever this modern world wants me absorb.
+- 💼 Portfolio: [Your website](https://example.com)
+- 📫 Contact: [stepfort77@gmail.com](mailto:stepfort77@gmail.com)
+- 🔗 LinkedIn: [Stephen Fortunato](https://www.linkedin.com/in/stephen-fortunato-0079601b/)
+
+  | LinkedIn                                                                                                                                                              | Cypress                                                                                              |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/stephen-fortunato-0079601b1/) | [![Cypress](https://img.shields.io/badge/tested%20with-Cypress-04C38E.svg)](https://www.cypress.io/) |
 </div>  
-</br>
+
+<br/>
+
 <div>
+## Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,git,github,docker" alt="Technology icons">
+</p>
+## Featured Projects
+
+### My Coaching Blog
+<p>
+I wanted to share this journey with everyone who formed a part of it. There is a lot of work to be done and content to add, but I will eventually have all the content I possess on site. I stopped coaching in 2019.
+</p>
+
+[View the project](https://github.com/sTevoFort/My-Coaching-Blog)
+
+### Nana's Beautiful Creations
+<p>
+Website I created form my Mother-In-Law, as she was selling handcrafted items for Cancer
+</p>
+
+[View the project](https://github.com/sTevoFort/nanas-beautiful-creations)
+
+## GitHub Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sTeVofort&theme=dark)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sTeVofort&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
